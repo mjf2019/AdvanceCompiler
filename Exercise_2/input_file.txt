@@ -1,0 +1,6 @@
+yx = a*b + bd * cc // salam
+ a = b + c // a
+ auy = (a * y) + n
+ a = 3 //num
+ a = a + n
+d = (a + r) + r * 8 // test2 //test1 /* test
